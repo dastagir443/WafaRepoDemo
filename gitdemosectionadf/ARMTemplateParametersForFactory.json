@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "gitdemosectionadf"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
