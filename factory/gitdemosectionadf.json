@@ -1,0 +1,9 @@
+{
+	"name": "gitdemosectionadf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c83cca45-de03-4f52-a75d-4f57e13bc88c",
+		"tenantId": "292cfa48-104c-4682-9cc2-b05294384d2e"
+	}
+}
